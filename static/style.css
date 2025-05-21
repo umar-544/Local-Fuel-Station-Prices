@@ -1,0 +1,28 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+#location{
+    scale: 1.5;
+}
+p{
+    font-size: 20px;
+    color: #333;
+}
+header{
+    background-color: #d1d1d1;
+    padding: 10px 0;
+    text-align: center;
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+.fuel-price-container{
+    align-items: center;
+    margin-top: 20px;
+}
+.fuel-price-table{
+    margin-left: auto;
+    margin-right: auto;
+}
